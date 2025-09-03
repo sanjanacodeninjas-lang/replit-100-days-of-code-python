@@ -1,5 +1,30 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+
+me = 'Sanju'
+username = 'SakuraBlossom143'
+today = '2025-09-02'
+statement = ''' I signed up for coding on Replit. '''
+
+print(me)
+print(today)
+print(statement)
+print(f'I am feeling{mood}')
+print(f'You can follow my progress at replit.com/@{username}')
+
+name = input("What's your name?: ")
+food = input("What's your favorite food?: ")
+music = input("What's your favorite music?: ")
+location = input("Where do you live?: ")
+
+print ()
+print(f'So your are {name} and you live in {location}. Your favorite food is {food} and you like to listen to {music}.')
+
+print('=== The Ultimate Wacky Recipe Maker === ')
+print ()
+food = input("Please name some food: ")
+plant = input("Can you please name: ")
+cooking = input("Name a method of cooking: ")
+burned = input("How would you describe burnt food: ")
+item = input("Can you please name a household item: 
 *.py[cod]
 *$py.class
 
